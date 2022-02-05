@@ -3,7 +3,7 @@
     Make Sudoku Game With HTML CSS JavaScript
 
 # Deploment Link
-<a href="https://jishanpatel7.github.io/Sudoku-Game-JS/" target="_blank">https://jishanpatel7.github.io/Sudoku-Game-JS/</a>
+<a href="https://sudoku-solver-jp.netlify.app/" target="_blank">Click Here/</a>
 # Resource
 
     Google font: https://fonts.google.com/
